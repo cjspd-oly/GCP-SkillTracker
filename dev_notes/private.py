@@ -75,18 +75,25 @@ def main():
         mime="text/yaml",
     )
 
-    # 📋 Filter badges based on search input
-    badges = (
-        original_badges.copy()
-    )  # Work with a copy to avoid modifying the original data
+    # 🎛️ Sidebar: Filter by Completion Status
+    filter_option = st.sidebar.radio("📌 Filter by:", ["All", "✅ Done", "❌ Not Done"])
+
+    # 📋 Filter badges based on search & completion status
+    badges = original_badges.copy()
 
     if search_term:
         badges = [
             b
-            for b in original_badges
+            for b in badges
             if search_term.lower() in b.get("name", "").lower()
             or search_term.lower() in b.get("badge", "").lower()
         ]
+
+    # Apply "Done / Not Done" filter
+    if filter_option == "✅ Done":
+        badges = [b for b in badges if b.get("done", False)]
+    elif filter_option == "❌ Not Done":
+        badges = [b for b in badges if not b.get("done", False)]
 
     # 🔄 Sorting logic
     if sort_option == "Default (Badge Order)":
