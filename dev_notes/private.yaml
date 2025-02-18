@@ -17,7 +17,7 @@
   link: https://www.cloudskillsboost.google/course_templates/752
   name: Streaming Analytics into BigQuery
 - badge: Skill Badge 3
-  done: false
+  done: true
   labs:
   - 'Cloud Storage: Qwik Start - Cloud Console'
   - 'Cloud Functions: Qwik Start - Console'
@@ -26,7 +26,7 @@
   link: https://www.cloudskillsboost.google/course_templates/658
   name: Store, Process, and Manage Data on Google Cloud - Console
 - badge: Skill Badge 4
-  done: false
+  done: true
   labs:
   - 'Speech-to-Text API: Qwik Start'
   - Speaking with a Webpage - Streaming Speech Transcripts
@@ -53,7 +53,7 @@
   link: https://www.cloudskillsboost.google/course_templates/704
   name: Create a Secure Data Lake on Cloud Storage
 - badge: Skill Badge 7
-  done: false
+  done: true
   labs:
   - 'API Gateway: Qwik Start'
   - 'Pub/Sub: Qwik Start - Console'
@@ -71,7 +71,7 @@
   link: https://www.cloudskillsboost.google/course_templates/726
   name: Get Started with Dataplex
 - badge: Skill Badge 9
-  done: false
+  done: true
   labs:
   - 'Pub/Sub: Qwik Start - Console'
   - 'Cloud Scheduler: Qwik Start'
@@ -80,7 +80,7 @@
   link: https://www.cloudskillsboost.google/course_templates/728
   name: Get Started with Pub/Sub
 - badge: Skill Badge 10
-  done: false
+  done: true
   labs:
   - 'BigQuery: Qwik Start - Console'
   - 'Data Catalog: Qwik Start'
@@ -89,7 +89,7 @@
   link: https://www.cloudskillsboost.google/course_templates/753
   name: Tag and Discover BigLake Data
 - badge: Skill Badge 11
-  done: false
+  done: true
   labs:
   - 'Cloud Storage: Qwik Start - CLI/SDK '
   - 'APIs Explorer: Cloud Storage'
@@ -116,7 +116,7 @@
   link: https://www.cloudskillsboost.google/course_templates/702
   name: Configure Service Accounts and IAM Roles for Google Cloud
 - badge: Skill Badge 14
-  done: false
+  done: true
   labs:
   - Looker Data Explorer - Qwik Start
   - Filtering and Sorting Data in Looker
@@ -158,7 +158,7 @@
   link: https://www.cloudskillsboost.google/course_templates/642
   name: Create and Manage AlloyDB Instances
 - badge: Skill Badge 18
-  done: false
+  done: true
   labs:
   - Build an AI Image Recognition app using Gemini on Vertex AI
   - Build an AI Image Generator app using Imagen on Vertex AI
@@ -167,7 +167,7 @@
   link: https://www.cloudskillsboost.google/course_templates/1076
   name: Build Real World AI Applications with Gemini and Imagen
 - badge: Skill Badge 19
-  done: false
+  done: true
   labs:
   - 'App Engine: Qwik Start - Python'
   - 'App Engine: Qwik Start - Go'
@@ -185,7 +185,7 @@
   link: https://www.cloudskillsboost.google/course_templates/705
   name: Create a Streaming Data Lake on Cloud Storage
 - badge: Skill Badge 21
-  done: false
+  done: true
   labs:
   - 'Cloud Storage: Qwik Start - CLI/SDK '
   - 'Cloud Functions: Qwik Start - Command Line'
@@ -194,7 +194,7 @@
   link: https://www.cloudskillsboost.google/course_templates/659
   name: Store, Process, and Manage Data on Google Cloud - Command Line
 - badge: Skill Badge 22
-  done: false
+  done: true
   labs:
   - 'Google AppSheet: Getting Started'
   - Publish your AppSheet App
@@ -211,7 +211,7 @@
   link: https://www.cloudskillsboost.google/course_templates/696
   name: 'Cloud Functions: 3 Ways'
 - badge: Skill Badge 24
-  done: false
+  done: true
   labs:
   - 'APIs Explorer: Cloud Storage'
   - 'Cloud Storage: Qwik Start - CLI/SDK '
@@ -229,7 +229,7 @@
   link: https://www.cloudskillsboost.google/course_templates/647
   name: Get Started with Looker
 - badge: Skill Badge 26
-  done: false
+  done: true
   labs:
   - Creating a Virtual Machine
   - Creating a Persistent Disk
@@ -256,7 +256,7 @@
   link: https://www.cloudskillsboost.google/course_templates/667
   name: Analyze Sentiment with Natural Language API
 - badge: Skill Badge 29
-  done: false
+  done: true
   labs:
   - It Speaks! Create Synthetic Speech Using Text-to-Speech
   - Translate Text with the Cloud Translation API
@@ -283,7 +283,7 @@
   link: https://www.cloudskillsboost.google/course_templates/750
   name: Protect Sensitive Data with Data Loss Prevention
 - badge: Skill Badge 32
-  done: false
+  done: true
   labs:
   - 'Cloud IAM: Qwik Start'
   - 'Data Catalog: Qwik Start'
@@ -362,7 +362,7 @@
   link: https://www.cloudskillsboost.google/course_templates/688
   name: Build Google Cloud Infrastructure for Azure Professionals
 - badge: Skill Badge 41
-  done: false
+  done: true
   labs:
   - Creating a Data Transformation Pipeline with Cloud Dataprep
   - ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
@@ -371,7 +371,7 @@
   link: https://www.cloudskillsboost.google/course_templates/627
   name: Engineer Data for Predictive Modeling with BigQuery ML
 - badge: Skill Badge 42
-  done: false
+  done: true
   labs:
   - Introduction to Docker
   - 'Google Kubernetes Engine: Qwik Start'
@@ -472,7 +472,7 @@
   link: https://www.cloudskillsboost.google/course_templates/652
   name: Create and Manage Cloud SQL for PostgreSQL Instances
 - badge: Skill Badge 53
-  done: false
+  done: true
   labs:
   - Creating a Data Warehouse Through Joins and Unions
   - Creating Date-Partitioned Tables in BigQuery
@@ -541,7 +541,7 @@
   link: https://www.cloudskillsboost.google/course_templates/636
   name: Build Infrastructure with Terraform on Google Cloud
 - badge: Skill Badge 60
-  done: false
+  done: true
   labs:
   - 'Looker Developer: Qwik Start'
   - Creating Measures and Dimensions Using LookML
@@ -561,7 +561,7 @@
   link: https://www.cloudskillsboost.google/course_templates/741
   name: Develop Serverless Applications on Cloud Run
 - badge: Skill Badge 62
-  done: false
+  done: true
   labs:
   - Deploy Your Website on Cloud Run
   - Hosting a Web App on Google Cloud Using Compute Engine
@@ -662,7 +662,7 @@
   link: https://www.cloudskillsboost.google/course_templates/661
   name: Deploy and Manage Apigee X
 - badge: Skill Badge 72
-  done: false
+  done: true
   labs:
   - 'Cloud IAM: Qwik Start'
   - 'Cloud Monitoring: Qwik Start'
@@ -703,7 +703,7 @@
   link: https://www.cloudskillsboost.google/course_templates/641
   name: Set Up a Google Cloud Network
 - badge: Skill Badge 76
-  done: false
+  done: true
   labs:
   - 'Cloud IAM: Qwik Start'
   - IAM Custom Roles
@@ -750,7 +750,7 @@
   link: https://www.cloudskillsboost.google/course_templates/640
   name: 'Cloud Architecture: Design, Implement, and Manage'
 - badge: Skill Badge 80
-  done: false
+  done: true
   labs:
   - Securing Virtual Machines using BeyondCorp Enterprise (BCE)
   - Multiple VPC Networks
@@ -772,7 +772,7 @@
   link: https://www.cloudskillsboost.google/course_templates/651
   name: Manage Data Models in Looker
 - badge: Skill Badge 82
-  done: false
+  done: true
   labs:
   - Introduction to Convolutions with TensorFlow
   - Classify Images with TensorFlow Convolutional Neural Networks
@@ -793,7 +793,7 @@
   link: https://www.cloudskillsboost.google/course_templates/676
   name: Get Started with Google Workspace Tools
 - badge: Skill Badge 84
-  done: false
+  done: true
   labs:
   - Introduction to APIs in Google Cloud
   - Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
@@ -805,7 +805,7 @@
   link: https://www.cloudskillsboost.google/course_templates/630
   name: Use Machine Learning APIs on Google Cloud
 - badge: Skill Badge 85
-  done: false
+  done: true
   labs:
   - 'Vertex AI: Qwik Start'
   - 'Dataprep: Qwik Start'
