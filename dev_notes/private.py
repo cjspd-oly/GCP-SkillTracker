@@ -10,7 +10,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 st.set_page_config(page_title="🏆 Skill Badge Tracker", layout="wide")
 
 # 📄 YAML file to store progress
-YAML_FILE = os.path.join(script_dir, "personal.yaml")
+YAML_FILE = os.path.join(script_dir, "private.yaml")
 
 
 # 📂 Function to load YAML data
