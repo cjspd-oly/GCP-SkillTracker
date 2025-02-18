@@ -13,12 +13,12 @@ With an **interactive UI, search, sorting, and autosave features**, this app sim
 
 ## ✨ Features
 
-- ✅ **Track Skill Badges** (not individual labs)
-- ✅ **Autosave & Manual Save** options for progress tracking
-- ✅ **Search & Sort** badges by name or completion status
-- ✅ **YAML Import/Export** for easy backup & restore
-- ✅ **Compact UI** with a developer-friendly layout
-
+- ✅ **Track Your Skill Badges**: Keep a record of completed and pending badges.
+- 📊 **Sorting Options**: Sort by **default order**, **✅ done first**, or **❌ not done first**.
+- 🔍 **Search Functionality**: Quickly find Skill Badges by name or ID.
+- 📌 **Filter by Status**: View **All**, **✅ Done**, or **❌ Not Done** badges.
+- 🔄 **Auto-Save Progress**: Updates are saved automatically.
+- 💾 **Manual Save & Export**: Save progress manually and export YAML files.
 ---
 
 ## 📂 Folder Structure
@@ -26,6 +26,7 @@ With an **interactive UI, search, sorting, and autosave features**, this app sim
 ```
 📁 GCP-SkillTracker
 ├── 📄 main.py                 # Streamlit App
+├── 📄 main.py.bak                 # Streamlit Older App (Backup)
 ├── 📂 parser                  # Converts Markdown → YAML
 │   ├── parse.py               # Markdown to YAML parser
 │   ├── sample.md              # Example 85 Skill Badge Markdown
@@ -38,6 +39,7 @@ With an **interactive UI, search, sorting, and autosave features**, this app sim
 ├── 📂 dev_notes               # Developer-only folder (Personal stuff)
 |   ├── private.py             # Streamlit App (For Personal Use)
 │   ├── private.yaml           # Personal tracking
+│   ├── private.yaml.bak       # Personal tracking (Backup)
 │   └── README.md              # Notes for private use
 ├── 📂 assets                  # (Optional) UI resources & images
 │   └── banner.png             # Repo banner (if needed)
@@ -89,10 +91,20 @@ streamlit run main.py
 - **Export:** Download a backup YAML file using **Export YAML**.
 - **Archive:** Old progress files are stored in `track_data/archive_YYYYMMDD.yaml`. **{TODO}**
 
-### 🔍 Searching & Sorting
+### 🎯 Sorting & Filtering
+1. **Sorting**  
+   - Default Order → Keeps Skill Badge numbers in order.  
+   - ✅ Done First → Moves completed badges to the top.  
+   - ❌ Not Done First → Moves pending badges to the top.  
 
-- Use the **search bar** to find badges by name.
-- Sort badges by **completion status** or **skill badge number**.
+2. **Filtering**  
+   - **All** → Shows all Skill Badges.  
+   - **✅ Done** → Displays only completed Skill Badges.  
+   - **❌ Not Done** → Displays only pending Skill Badges.  
+
+3. **Search**  
+   - Type a **Skill Badge Name or ID** to find a specific badge.  
+   - If left empty, all Skill Badges will be shown.  
 
 ---
 
