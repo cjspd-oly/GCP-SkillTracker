@@ -1,5 +1,5 @@
 - badge: Skill Badge 1
-  done: false
+  done: true
   labs:
   - 'Google Sheets: Getting Started'
   - 'BigQuery: Qwik Start - Console'
@@ -8,7 +8,7 @@
   link: https://www.cloudskillsboost.google/course_templates/632
   name: Analyze BigQuery Data in Connected Sheets
 - badge: Skill Badge 2
-  done: false
+  done: true
   labs:
   - 'Pub/Sub: Qwik Start - Console'
   - 'BigQuery: Qwik Start - Console'
@@ -35,7 +35,7 @@
   link: https://www.cloudskillsboost.google/course_templates/756
   name: Using the Google Cloud Speech API
 - badge: Skill Badge 5
-  done: false
+  done: true
   labs:
   - 'Cloud Natural Language API: Qwik Start'
   - 'Speech-to-Text API: Qwik Start'
@@ -44,7 +44,7 @@
   link: https://www.cloudskillsboost.google/course_templates/634
   name: Analyze Speech and Language with Google APIs
 - badge: Skill Badge 6
-  done: false
+  done: true
   labs:
   - 'Cloud IAM: Qwik Start'
   - 'Cloud Storage: Qwik Start - Cloud Console'
@@ -62,7 +62,7 @@
   link: https://www.cloudskillsboost.google/course_templates/662
   name: Get Started with API Gateway
 - badge: Skill Badge 8
-  done: false
+  done: true
   labs:
   - 'Dataplex: Qwik Start - Console'
   - 'Dataplex: Qwik Start - Command Line'
@@ -98,7 +98,7 @@
   link: https://www.cloudskillsboost.google/course_templates/755
   name: Use APIs to Work with Cloud Storage
 - badge: Skill Badge 12
-  done: false
+  done: true
   labs:
   - Big Data Analysis to a Slide Presentation
   - 'Connected Sheets: Qwik Start'
@@ -107,7 +107,7 @@
   link: https://www.cloudskillsboost.google/course_templates/737
   name: Integrate BigQuery Data and Google Workspace using Apps Script
 - badge: Skill Badge 13
-  done: false
+  done: true
   labs:
   - 'Service Accounts and Roles: Fundamentals'
   - Configuring IAM Permissions with gcloud
@@ -136,7 +136,7 @@
   link: https://www.cloudskillsboost.google/course_templates/643
   name: Create and Manage Cloud Spanner Instances
 - badge: Skill Badge 16
-  done: false
+  done: true
   labs:
   - Use Charts in Google Sheets
   - Validate Data in Google Sheets
@@ -202,7 +202,7 @@
   link: https://www.cloudskillsboost.google/course_templates/635
   name: App Building with AppSheet
 - badge: Skill Badge 23
-  done: false
+  done: true
   labs:
   - 'Cloud Functions: Qwik Start - Console'
   - 'Cloud Functions: Qwik Start - Command Line'
@@ -238,7 +238,7 @@
   link: https://www.cloudskillsboost.google/course_templates/754
   name: The Basics of Google Cloud Compute
 - badge: Skill Badge 27
-  done: false
+  done: true
   labs:
   - 'APIs Explorer: Qwik Start'
   - Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
