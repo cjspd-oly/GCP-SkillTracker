@@ -35,7 +35,7 @@
   link: https://www.cloudskillsboost.google/course_templates/756
   name: Using the Google Cloud Speech API
 - badge: Skill Badge 5
-  done: false
+  done: true
   labs:
   - 'Cloud Natural Language API: Qwik Start'
   - 'Speech-to-Text API: Qwik Start'
