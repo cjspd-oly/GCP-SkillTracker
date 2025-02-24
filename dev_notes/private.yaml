@@ -292,7 +292,7 @@
   link: https://www.cloudskillsboost.google/course_templates/751
   name: Secure BigLake Data
 - badge: Skill Badge 33
-  done: false
+  done: true
   labs:
   - 'Pub/Sub: Qwik Start - Command Line'
   - 'Cloud Functions 2nd Gen: Qwik Start'
