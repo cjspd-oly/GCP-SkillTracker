@@ -247,7 +247,7 @@
   link: https://www.cloudskillsboost.google/course_templates/633
   name: Analyze Images with the Cloud Vision API
 - badge: Skill Badge 28
-  done: false
+  done: true
   labs:
   - 'Cloud Natural Language API: Qwik Start'
   - Using the Natural Language API from Google Docs
