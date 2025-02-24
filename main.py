@@ -112,7 +112,9 @@ def main():
         with st.expander(f"🏅 {badge['badge']}: [{badge['name']}]({badge['link']})"):
             # ✅ Checkbox to mark the badge as completed
             done = st.checkbox(
-                "✅ Mark as Done", value=badge.get("done", False), key=f"badge_{idx}"
+                "✅ Mark as Done",
+                value=badge.get("done", False),
+                key=f"badge_{badge['badge']}",  # Unique key using Skill Badge Name
             )
             badge["done"] = done  # Update the 'done' status
 
