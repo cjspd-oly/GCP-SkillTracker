@@ -335,7 +335,7 @@
   link: https://www.cloudskillsboost.google/course_templates/649
   name: Develop Serverless Apps with Firebase
 - badge: Skill Badge 38
-  done: false
+  done: true
   labs:
   - Develop No-Code Chat Apps with AppSheet
   - Google Chat Bot - Apps Script
