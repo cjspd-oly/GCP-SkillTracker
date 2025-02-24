@@ -35,7 +35,7 @@
   link: https://www.cloudskillsboost.google/course_templates/756
   name: Using the Google Cloud Speech API
 - badge: Skill Badge 5
-  done: true
+  done: false
   labs:
   - 'Cloud Natural Language API: Qwik Start'
   - 'Speech-to-Text API: Qwik Start'
@@ -107,7 +107,7 @@
   link: https://www.cloudskillsboost.google/course_templates/737
   name: Integrate BigQuery Data and Google Workspace using Apps Script
 - badge: Skill Badge 13
-  done: true
+  done: false
   labs:
   - 'Service Accounts and Roles: Fundamentals'
   - Configuring IAM Permissions with gcloud
@@ -147,7 +147,7 @@
   link: https://www.cloudskillsboost.google/course_templates/776
   name: Use Functions, Formulas, and Charts in Google Sheets
 - badge: Skill Badge 17
-  done: true
+  done: false
   labs:
   - AlloyDB - Database Fundamentals
   - Migrating to AlloyDB from PostgreSQL Using Database Migration Service
@@ -247,7 +247,7 @@
   link: https://www.cloudskillsboost.google/course_templates/633
   name: Analyze Images with the Cloud Vision API
 - badge: Skill Badge 28
-  done: true
+  done: false
   labs:
   - 'Cloud Natural Language API: Qwik Start'
   - Using the Natural Language API from Google Docs
@@ -274,7 +274,7 @@
   link: https://www.cloudskillsboost.google/course_templates/653
   name: Monitor and Manage Google Cloud Resources
 - badge: Skill Badge 31
-  done: true
+  done: false
   labs:
   - 'Data Loss Prevention: Qwik Start - JSON'
   - Redacting Sensitive Data with Cloud Data Loss Prevention
@@ -292,7 +292,7 @@
   link: https://www.cloudskillsboost.google/course_templates/751
   name: Secure BigLake Data
 - badge: Skill Badge 33
-  done: true
+  done: false
   labs:
   - 'Pub/Sub: Qwik Start - Command Line'
   - 'Cloud Functions 2nd Gen: Qwik Start'
@@ -301,7 +301,7 @@
   link: https://www.cloudskillsboost.google/course_templates/727
   name: Get Started with Eventarc
 - badge: Skill Badge 34
-  done: true
+  done: false
   labs:
   - Getting Started with Cloud Shell and gcloud
   - Set Up Network and HTTP Load Balancers
@@ -309,7 +309,7 @@
   link: https://www.cloudskillsboost.google/course_templates/648
   name: Implement Load Balancing on Compute Engine
 - badge: Skill Badge 35
-  done: true
+  done: false
   labs:
   - 'Cloud Monitoring: Qwik Start'
   - Monitoring and Logging for Cloud Functions
@@ -318,7 +318,7 @@
   link: https://www.cloudskillsboost.google/course_templates/747
   name: Monitoring in Google Cloud
 - badge: Skill Badge 36
-  done: true
+  done: false
   labs:
   - Create and Test a Document AI Processor
   - Process Documents with Python Using the Document AI API
@@ -335,7 +335,7 @@
   link: https://www.cloudskillsboost.google/course_templates/649
   name: Develop Serverless Apps with Firebase
 - badge: Skill Badge 38
-  done: true
+  done: false
   labs:
   - Develop No-Code Chat Apps with AppSheet
   - Google Chat Bot - Apps Script
@@ -353,7 +353,7 @@
   link: https://www.cloudskillsboost.google/course_templates/748
   name: Networking Fundamentals on Google Cloud
 - badge: Skill Badge 40
-  done: true
+  done: false
   labs:
   - Configuring IAM Permissions with gCloud - Azure
   - Orchestrating the Cloud with Kubernetes (Azure)
@@ -380,7 +380,7 @@
   link: https://www.cloudskillsboost.google/course_templates/663
   name: Deploy Kubernetes Applications on Google Cloud
 - badge: Skill Badge 43
-  done: true
+  done: false
   labs:
   - Getting Started with the Vertex AI Gemini API and Python SDK
   - Multimodality with Gemini
@@ -389,7 +389,7 @@
   link: https://www.cloudskillsboost.google/course_templates/959
   name: Explore Generative AI with the Vertex AI Gemini API
 - badge: Skill Badge 44
-  done: true
+  done: false
   labs:
   - Working with Artifact Registry
   - Google Kubernetes Engine Pipeline using Cloud Build
@@ -407,7 +407,7 @@
   link: https://www.cloudskillsboost.google/course_templates/716
   name: Implement DevOps Workflows in Google Cloud
 - badge: Skill Badge 46
-  done: true
+  done: false
   labs:
   - Configuring IAM Permissions with gcloud - AWS
   - Orchestrating the Cloud with Kubernetes (AWS)
@@ -416,7 +416,7 @@
   link: https://www.cloudskillsboost.google/course_templates/687
   name: Build Google Cloud Infrastructure for AWS Professionals
 - badge: Skill Badge 47
-  done: false
+  done: true
   labs:
   - Multimodality with Gemini
   - Using Gemini for Multimodal Retail Recommendations
@@ -426,7 +426,7 @@
   link: https://www.cloudskillsboost.google/course_templates/981
   name: Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
 - badge: Skill Badge 48
-  done: false
+  done: true
   labs:
   - Managing Deployments Using Kubernetes Engine
   - Debugging Apps on Google Kubernetes Engine
@@ -443,7 +443,7 @@
   link: https://www.cloudskillsboost.google/course_templates/976
   name: Prompt Design in Vertex AI
 - badge: Skill Badge 50
-  done: true
+  done: false
   labs:
   - Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust
   - Securing Virtual Machines using BeyondCorp Enterprise (BCE)
@@ -482,7 +482,7 @@
   link: https://www.cloudskillsboost.google/course_templates/624
   name: Build a Data Warehouse with BigQuery
 - badge: Skill Badge 54
-  done: true
+  done: false
   labs:
   - 'Dataplex: Qwik Start - Console'
   - Tagging Dataplex Assets
@@ -511,7 +511,7 @@
   link: https://www.cloudskillsboost.google/course_templates/657
   name: Share Data Using Google Data Cloud
 - badge: Skill Badge 57
-  done: true
+  done: false
   labs:
   - 'Cloud Monitoring: Qwik Start'
   - Monitoring Multiple Projects with Cloud Monitoring
@@ -521,7 +521,7 @@
   link: https://www.cloudskillsboost.google/course_templates/749
   name: Monitor and Log with Google Cloud Observability
 - badge: Skill Badge 58
-  done: false
+  done: true
   labs:
   - BigQuery Soccer Data Ingestion
   - BigQuery Soccer Data Analysis
@@ -561,7 +561,7 @@
   link: https://www.cloudskillsboost.google/course_templates/741
   name: Develop Serverless Applications on Cloud Run
 - badge: Skill Badge 62
-  done: true
+  done: false
   labs:
   - Deploy Your Website on Cloud Run
   - Hosting a Web App on Google Cloud Using Compute Engine
@@ -612,7 +612,7 @@
   link: https://www.cloudskillsboost.google/course_templates/761
   name: Monitor Environments with Google Cloud Managed Service for Prometheus
 - badge: Skill Badge 67
-  done: true
+  done: false
   labs:
   - Designing and Querying Bigtable Schemas
   - Creating and Populating a Bigtable Instance
@@ -680,7 +680,7 @@
   link: https://www.cloudskillsboost.google/course_templates/623
   name: Derive Insights from BigQuery Data
 - badge: Skill Badge 74
-  done: false
+  done: true
   labs:
   - Introduction to APIs in Google Cloud
   - Modernizing Applications with Apigee X
@@ -716,7 +716,7 @@
   link: https://www.cloudskillsboost.google/course_templates/645
   name: Implement Cloud Security Fundamentals on Google Cloud
 - badge: Skill Badge 77
-  done: true
+  done: false
   labs:
   - 'Cloud IAM: Qwik Start'
   - Introduction to SQL for BigQuery and Cloud SQL
@@ -727,7 +727,7 @@
   link: https://www.cloudskillsboost.google/course_templates/625
   name: Develop your Google Cloud Network
 - badge: Skill Badge 78
-  done: true
+  done: false
   labs:
   - Optical Character Recognition (OCR) with Document AI (Python)
   - Form Parsing with Document AI (Python)
@@ -738,7 +738,7 @@
   link: https://www.cloudskillsboost.google/course_templates/686
   name: Build Custom Processors with Document AI
 - badge: Skill Badge 79
-  done: true
+  done: false
   labs:
   - 'Deploy a Compute Instance with a Remote Startup Script: Challenge Lab'
   - 'Configure Secure RDP using a Windows Bastion Host: Challenge Lab'
@@ -815,3 +815,12 @@
   - 'Prepare Data for ML APIs on Google Cloud: Challenge Lab'
   link: https://www.cloudskillsboost.google/course_templates/631
   name: Prepare Data for ML APIs on Google Cloud
+- badge: Skill Badge 86
+  done: true
+  labs:
+  - Gating Deployments with Binary Authorization
+  - Secure Builds with Cloud Build
+  - Securing Container Builds
+  - 'Secure Software Delivery: Challenge Lab'
+  link: https://www.cloudskillsboost.google/course_templates/1164
+  name: Secure Software Delivery
