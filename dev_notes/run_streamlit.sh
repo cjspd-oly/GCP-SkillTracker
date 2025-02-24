@@ -10,4 +10,4 @@ source venv/bin/activate
 cd dev_notes
 
 # Run Streamlit on port 8080
-python -m streamlit run private.py --server.port 8599
+python -m streamlit run private.py --server.headless=true --server.port 8599
