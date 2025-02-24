@@ -274,7 +274,7 @@
   link: https://www.cloudskillsboost.google/course_templates/653
   name: Monitor and Manage Google Cloud Resources
 - badge: Skill Badge 31
-  done: false
+  done: true
   labs:
   - 'Data Loss Prevention: Qwik Start - JSON'
   - Redacting Sensitive Data with Cloud Data Loss Prevention
