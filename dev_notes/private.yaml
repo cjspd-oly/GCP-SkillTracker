@@ -301,7 +301,7 @@
   link: https://www.cloudskillsboost.google/course_templates/727
   name: Get Started with Eventarc
 - badge: Skill Badge 34
-  done: false
+  done: true
   labs:
   - Getting Started with Cloud Shell and gcloud
   - Set Up Network and HTTP Load Balancers
