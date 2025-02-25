@@ -551,7 +551,7 @@
   link: https://www.cloudskillsboost.google/course_templates/639
   name: Build LookML Objects in Looker
 - badge: Skill Badge 61
-  done: false
+  done: true
   labs:
   - Build a Serverless App with Cloud Run that Creates PDF Files
   - Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub
