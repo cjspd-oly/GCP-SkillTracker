@@ -107,7 +107,7 @@
   link: https://www.cloudskillsboost.google/course_templates/737
   name: Integrate BigQuery Data and Google Workspace using Apps Script
 - badge: Skill Badge 13
-  done: false
+  done: true
   labs:
   - 'Service Accounts and Roles: Fundamentals'
   - Configuring IAM Permissions with gcloud
