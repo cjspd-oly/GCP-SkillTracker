@@ -670,7 +670,7 @@
   link: https://www.cloudskillsboost.google/course_templates/637
   name: Set Up an App Dev Environment on Google Cloud
 - badge: Skill Badge 73
-  done: false
+  done: true
   labs:
   - Introduction to SQL for BigQuery and Cloud SQL
   - Explore an Ecommerce Dataset with SQL in BigQuery
