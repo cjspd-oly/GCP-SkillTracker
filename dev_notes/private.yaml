@@ -482,7 +482,7 @@
   link: https://www.cloudskillsboost.google/course_templates/624
   name: Build a Data Warehouse with BigQuery
 - badge: Skill Badge 54
-  done: false
+  done: true
   labs:
   - 'Dataplex: Qwik Start - Console'
   - Tagging Dataplex Assets
