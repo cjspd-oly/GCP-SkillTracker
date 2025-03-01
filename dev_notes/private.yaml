@@ -561,7 +561,7 @@
   link: https://www.cloudskillsboost.google/course_templates/741
   name: Develop Serverless Applications on Cloud Run
 - badge: Skill Badge 62
-  done: false
+  done: true
   labs:
   - Deploy Your Website on Cloud Run
   - Hosting a Web App on Google Cloud Using Compute Engine
