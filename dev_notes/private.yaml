@@ -443,7 +443,7 @@
   link: https://www.cloudskillsboost.google/course_templates/976
   name: Prompt Design in Vertex AI
 - badge: Skill Badge 50
-  done: false
+  done: true
   labs:
   - Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust
   - Securing Virtual Machines using BeyondCorp Enterprise (BCE)
