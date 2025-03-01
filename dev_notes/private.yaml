@@ -716,7 +716,7 @@
   link: https://www.cloudskillsboost.google/course_templates/645
   name: Implement Cloud Security Fundamentals on Google Cloud
 - badge: Skill Badge 77
-  done: false
+  done: true
   labs:
   - 'Cloud IAM: Qwik Start'
   - Introduction to SQL for BigQuery and Cloud SQL
