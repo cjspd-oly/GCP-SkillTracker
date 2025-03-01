@@ -380,7 +380,7 @@
   link: https://www.cloudskillsboost.google/course_templates/663
   name: Deploy Kubernetes Applications on Google Cloud
 - badge: Skill Badge 43
-  done: false
+  done: true
   labs:
   - Getting Started with the Vertex AI Gemini API and Python SDK
   - Multimodality with Gemini
@@ -435,7 +435,7 @@
   link: https://www.cloudskillsboost.google/course_templates/783
   name: Manage Kubernetes in Google Cloud
 - badge: Skill Badge 49
-  done: false
+  done: true
   labs:
   - 'Generative AI with Vertex AI: Prompt Design'
   - Getting Started with the Vertex AI Gemini API and Python SDK
