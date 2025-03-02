@@ -738,7 +738,7 @@
   link: https://www.cloudskillsboost.google/course_templates/686
   name: Build Custom Processors with Document AI
 - badge: Skill Badge 79
-  done: false
+  done: true
   labs:
   - 'Deploy a Compute Instance with a Remote Startup Script: Challenge Lab'
   - 'Configure Secure RDP using a Windows Bastion Host: Challenge Lab'
