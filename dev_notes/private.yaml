@@ -781,7 +781,7 @@
   link: https://www.cloudskillsboost.google/course_templates/646
   name: Classify Images with TensorFlow on Google Cloud
 - badge: Skill Badge 83
-  done: false
+  done: true
   labs:
   - 'Gmail: Getting Started'
   - 'Google Calendar: Getting Started'
