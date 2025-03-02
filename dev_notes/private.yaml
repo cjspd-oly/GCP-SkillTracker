@@ -389,7 +389,7 @@
   link: https://www.cloudskillsboost.google/course_templates/959
   name: Explore Generative AI with the Vertex AI Gemini API
 - badge: Skill Badge 44
-  done: false
+  done: true
   labs:
   - Working with Artifact Registry
   - Google Kubernetes Engine Pipeline using Cloud Build
